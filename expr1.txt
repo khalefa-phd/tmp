@@ -1,0 +1,284 @@
+ pglcs_m2 
+Time: 8.652 ms
+ pglcs_gm30_build 
+Time: 8.404 ms
+ pglcs_gm3_build 
+Time: 7.364 ms
+ pglcs_gm4_build 
+Time: 3.718 ms
+ pglcs_nocopy6 
+Time: 4.289 ms
+ pglcs_7 
+Time: 2.552 ms
+ pglcs_8 
+Time: 66.332 ms
+ pglcs_9 
+Time: 126.112 ms
+ lcs_sql 
+Time: 1654.077 ms (00:01.654)
+ pglcs_m2 
+Time: 47.481 ms
+ pglcs_gm30_build 
+Time: 37.735 ms
+ pglcs_gm3_build 
+Time: 34.740 ms
+ pglcs_gm4_build 
+Time: 18.825 ms
+ pglcs_nocopy6 
+Time: 23.211 ms
+ pglcs_7 
+Time: 15.073 ms
+ pglcs_8 
+Time: 421.349 ms
+ pglcs_9 
+Time: 802.470 ms
+ lcs_sql 
+Time: 7960.177 ms (00:07.960)
+Time: 0.121 ms
+Time: 2.913 ms
+Time: 4.457 ms
+Time: 1.795 ms
+ pglcs_m2 
+Time: 208.460 ms
+ pglcs_gm30_build 
+Time: 168.990 ms
+ pglcs_gm3_build 
+Time: 181.189 ms
+ pglcs_gm4_build 
+Time: 86.318 ms
+ pglcs_nocopy6 
+Time: 98.524 ms
+ pglcs_7 
+Time: 63.628 ms
+ pglcs_8 
+Time: 1777.474 ms (00:01.777)
+ pglcs_9 
+Time: 3364.694 ms (00:03.365)
+ lcs_sql 
+Time: 48377.536 ms (00:48.378)
+ pglcs_m2 
+Time: 807.303 ms
+ pglcs_gm30_build 
+Time: 650.032 ms
+ pglcs_gm3_build 
+Time: 712.281 ms
+ pglcs_gm4_build 
+Time: 382.206 ms
+ pglcs_nocopy6 
+Time: 375.832 ms
+ pglcs_7 
+Time: 244.993 ms
+ pglcs_8 
+Time: 6809.402 ms (00:06.809)
+ pglcs_9 
+Time: 12827.643 ms (00:12.828)
+Time: 0.131 ms
+Time: 3.207 ms
+Time: 44.186 ms
+Time: 5.063 ms
+ pglcs_m2 
+Time: 3277.952 ms (00:03.278)
+ pglcs_gm30_build 
+Time: 2397.404 ms (00:02.397)
+ pglcs_gm3_build 
+Time: 2793.045 ms (00:02.793)
+ pglcs_gm4_build 
+Time: 1834.618 ms (00:01.835)
+ pglcs_nocopy6 
+Time: 1536.067 ms (00:01.536)
+ pglcs_7 
+Time: 994.968 ms
+ pglcs_8 
+Time: 27776.356 ms (00:27.776)
+ pglcs_9 
+Time: 52766.125 ms (00:52.766)
+ ===================================================600==================================================
+Time: 0.127 ms
+Time: 3.462 ms
+Time: 4.065 ms
+Time: 4.975 ms
+ pglcs_m2 
+Time: 7272.454 ms (00:07.272)
+ pglcs_gm30_build 
+Time: 5076.401 ms (00:05.076)
+ pglcs_gm3_build 
+Time: 6098.606 ms (00:06.099)
+ pglcs_gm4_build 
+Time: 3487.620 ms (00:03.488)
+ pglcs_nocopy6 
+Time: 3405.404 ms (00:03.405)
+ pglcs_7 
+Time: 2220.726 ms (00:02.221)
+ pglcs_8 
+Time: 62521.064 ms (01:02.521)
+ pglcs_9 
+Time: 119501.847 ms (01:59.502)
+ ===================================================800==================================================
+Time: 0.134 ms
+Time: 3.407 ms
+Time: 5.801 ms
+Time: 5.662 ms
+ pglcs_m2 
+Time: 12796.646 ms (00:12.797)
+ pglcs_gm30_build 
+Time: 8966.072 ms (00:08.966)
+ pglcs_gm3_build 
+Time: 11044.406 ms (00:11.044)
+ pglcs_gm4_build 
+Time: 5221.519 ms (00:05.222)
+ pglcs_nocopy6 
+Time: 5996.201 ms (00:05.996)
+ pglcs_7 
+Time: 3879.773 ms (00:03.880)
+ pglcs_8 
+Time: 109059.533 ms (01:49.060)
+ pglcs_9 
+Time: 207390.113 ms (03:27.390)
+ ===================================================1000==================================================
+Time: 0.131 ms
+Time: 3.443 ms
+Time: 4.287 ms
+Time: 6.744 ms
+ pglcs_m2 
+Time: 20022.497 ms (00:20.022)
+ pglcs_gm30_build 
+Time: 14267.185 ms (00:14.267)
+ pglcs_gm3_build 
+Time: 17223.149 ms (00:17.223)
+ pglcs_gm4_build 
+Time: 8981.742 ms (00:08.982)
+ pglcs_nocopy6 
+Time: 9432.239 ms (00:09.432)
+ pglcs_7 
+Time: 6098.784 ms (00:06.099)
+ pglcs_8 
+Time: 173253.262 ms (02:53.253)
+ pglcs_9 
+Time: 326861.801 ms (05:26.862)
+ ===================================================1200==================================================
+Time: 0.137 ms
+Time: 3.815 ms
+Time: 4.751 ms
+Time: 8.092 ms
+ pglcs_m2 
+Time: 28901.238 ms (00:28.901)
+ pglcs_gm30_build 
+Time: 21126.596 ms (00:21.127)
+ pglcs_gm3_build 
+Time: 25825.077 ms (00:25.825)
+ pglcs_gm4_build 
+Time: 13063.777 ms (00:13.064)
+ pglcs_nocopy6 
+Time: 13572.991 ms (00:13.573)
+ pglcs_7 
+Time: 8794.846 ms (00:08.795)
+ pglcs_8 
+Time: 248800.696 ms (04:08.801)
+ pglcs_9 
+Time: 470890.906 ms (07:50.891)
+ ===================================================1400==================================================
+Time: 0.133 ms
+Time: 3.429 ms
+Time: 4.875 ms
+Time: 8.707 ms
+ pglcs_m2 
+Time: 39347.913 ms (00:39.348)
+ pglcs_gm30_build 
+Time: 29896.929 ms (00:29.897)
+ pglcs_gm3_build 
+Time: 36815.594 ms (00:36.816)
+ pglcs_gm4_build 
+Time: 13716.563 ms (00:13.717)
+ pglcs_nocopy6 
+Time: 18490.770 ms (00:18.491)
+ pglcs_7 
+Time: 11969.242 ms (00:11.969)
+ pglcs_8  
+Time: 339139.107 ms (05:39.139)
+ pglcs_9  
+Time: 638123.371 ms (10:38.123)
+ ===================================================1600==================================================
+Time: 0.135 ms
+Time: 3.518 ms
+Time: 4.696 ms
+Time: 9.715 ms
+ pglcs_m2 
+Time: 51749.701 ms (00:51.750)
+ pglcs_gm30_build 
+Time: 39265.499 ms (00:39.265)
+ pglcs_gm3_build 
+Time: 47304.962 ms (00:47.305)
+ pglcs_gm4_build 
+Time: 18132.527 ms (00:18.133)
+ pglcs_nocopy6 
+Time: 23979.535 ms (00:23.980)
+ pglcs_7  
+Time: 15536.404 ms (00:15.536)
+ pglcs_8  
+Time: 440802.343 ms (07:20.802)
+ pglcs_9  
+Time: 836155.490 ms (13:56.155)
+ ===================================================1800==================================================
+Time: 0.133 ms
+Time: 3.658 ms
+Time: 4.560 ms
+Time: 10.379 ms
+ pglcs_m2 
+Time: 64957.812 ms (01:04.958)
+ pglcs_gm30_build 
+Time: 49333.790 ms (00:49.334)
+ pglcs_gm3_build 
+Time: 59583.073 ms (00:59.583)
+ pglcs_gm4_build 
+Time: 22980.270 ms (00:22.980)
+ pglcs_nocopy6 
+Time: 30433.013 ms (00:30.433)
+ pglcs_7  
+Time: 19760.615 ms (00:19.761)
+ pglcs_8  
+Time: 556167.014 ms (09:16.167)
+ pglcs_9  
+Time: 1055244.535 ms (17:35.245)
+ ===================================================2000==================================================
+Time: 0.129 ms
+Time: 3.711 ms
+Time: 4.912 ms
+Time: 11.705 ms
+ pglcs_m2 
+Time: 79416.963 ms (01:19.417)
+ pglcs_gm30_build 
+Time: 58693.016 ms (00:58.693)
+ pglcs_gm3_build 
+Time: 73577.254 ms (01:13.577)
+ pglcs_gm4_build 
+Time: 32176.109 ms (00:32.176)
+ pglcs_nocopy6 
+Time: 37645.773 ms (00:37.646)
+ pglcs_7  
+Time: 24429.612 ms (00:24.430)
+ pglcs_8  
+Time: 681138.229 ms (11:21.138)
+ pglcs_9  
+Time: 1291271.186 ms (21:31.271)
+ ===================================================2200==================================================
+Time: 0.134 ms
+Time: 3.584 ms
+Time: 4.674 ms
+Time: 12.952 ms
+ pglcs_m2 
+Time: 96054.570 ms (01:36.055)
+ pglcs_gm30_build 
+Time: 79301.908 ms (01:19.302)
+ pglcs_gm3_build 
+Time: 98546.636 ms (01:38.547)
+ pglcs_gm4_build 
+Time: 30815.313 ms (00:30.815)
+ pglcs_nocopy6 
+Time: 45064.518 ms (00:45.065)
+ pglcs_7  
+Time: 29463.902 ms (00:29.464)
+ pglcs_8  
+Time: 827227.236 ms (13:47.227)
+ pglcs_9  
+Time: 1565482.655 ms (26:05.483)
+Time: 0.071 ms
